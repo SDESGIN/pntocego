@@ -1,0 +1,28 @@
+PONTO CEGO - SITE PARA GITHUB (SEM PASTAS)
+=======================================
+
+Todos os arquivos neste pacote ficam NA MESMA PASTA, na raiz do repositorio.
+
+PASSO A PASSO - GITHUB:
+1. Crie ou abra seu repositorio no GitHub.
+2. Selecione Add file > Upload files.
+3. Extraia este ZIP e selecione TODOS os arquivos SOLTOS ao mesmo tempo.
+4. Clique em Commit changes.
+5. Para publicar: Settings > Pages > Build and deployment > Deploy from a branch.
+6. Selecione a branch main e a pasta / (root), depois Save.
+7. Aguarde a publicacao e acesse o endereco informado em Pages.
+
+OBSERVACAO: O GitHub aceita pastas, mas este pacote NAO usa nenhuma.
+Nao envie o ZIP como unico arquivo: EXTRAIA e envie os arquivos de dentro.
+
+ARQUIVOS
+- index.html: pagina principal
+- styles.css: estilos e responsividade
+- script.js: contagem regressiva, galeria e botoes
+- *.webp: fotografias e artes conceituais do site
+- logo-ponto-cego.png: logo
+- favicon.svg: icone da aba
+
+A contagem regressiva esta configurada para 10/11/2026 00:00 BRT.
+As imagens promocionais sao artes conceituais, nao capturas comprovadas de gameplay.
+Fontes sao carregadas do Google Fonts quando houver internet.
